@@ -36,4 +36,8 @@
 | [2024-calculate-special-bonus](https://github.com/kishorek0344/Leet_Code/tree/master/2024-calculate-special-bonus) |
 | [2057-count-salary-categories](https://github.com/kishorek0344/Leet_Code/tree/master/2057-count-salary-categories) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/kishorek0344/Leet_Code/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/kishorek0344/Leet_Code/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
