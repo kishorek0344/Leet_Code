@@ -41,6 +41,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/kishorek0344/Leet_Code/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kishorek0344/Leet_Code/tree/master/0009-palindrome-number) |
 ## String
 |  |
