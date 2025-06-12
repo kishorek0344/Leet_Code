@@ -65,9 +65,23 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kishorek0344/Leet_Code/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/kishorek0344/Leet_Code/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kishorek0344/Leet_Code/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/kishorek0344/Leet_Code/tree/master/0242-valid-anagram) |
+## Array
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kishorek0344/Leet_Code/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kishorek0344/Leet_Code/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kishorek0344/Leet_Code/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
