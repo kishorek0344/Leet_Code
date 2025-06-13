@@ -66,6 +66,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kishorek0344/Leet_Code/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/kishorek0344/Leet_Code/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/kishorek0344/Leet_Code/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/kishorek0344/Leet_Code/tree/master/0387-first-unique-character-in-a-string) |
@@ -77,6 +78,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kishorek0344/Leet_Code/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/kishorek0344/Leet_Code/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
