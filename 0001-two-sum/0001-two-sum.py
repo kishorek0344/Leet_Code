@@ -2,6 +2,8 @@ from itertools import combinations
 
 class Solution(object):
     def twoSum(self, nums, target):
-        for (i1, v1), (i2, v2) in combinations(enumerate(nums), 2):
-            if v1 + v2 == target:
-                return [i1, i2]
+        hash_map = {}
+        for i in range(len(nums)):
+            if nums[i] in hash_map:
+                return (hash_map[nums[i]],i)
+            hash_map[target - nums[i]] = i
