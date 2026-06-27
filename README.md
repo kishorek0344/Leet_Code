@@ -75,6 +75,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/kishorek0344/Leet_Code/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kishorek0344/Leet_Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
 |  |
 | ------- |
@@ -91,6 +92,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kishorek0344/Leet_Code/tree/master/0001-two-sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kishorek0344/Leet_Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/kishorek0344/Leet_Code/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -105,4 +107,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/kishorek0344/Leet_Code/tree/master/0387-first-unique-character-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kishorek0344/Leet_Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
