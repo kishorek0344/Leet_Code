@@ -74,6 +74,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kishorek0344/Leet_Code/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/kishorek0344/Leet_Code/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kishorek0344/Leet_Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
@@ -86,12 +87,14 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kishorek0344/Leet_Code/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/kishorek0344/Leet_Code/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/kishorek0344/Leet_Code/tree/master/0242-valid-anagram) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kishorek0344/Leet_Code/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/kishorek0344/Leet_Code/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kishorek0344/Leet_Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/kishorek0344/Leet_Code/tree/master/0169-majority-element) |
 ## Divide and Conquer
