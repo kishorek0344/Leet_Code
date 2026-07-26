@@ -59,6 +59,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/kishorek0344/Leet_Code/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kishorek0344/Leet_Code/tree/master/0009-palindrome-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/kishorek0344/Leet_Code/tree/master/0628-maximum-product-of-three-numbers) |
 ## String
 |  |
 | ------- |
@@ -90,6 +91,7 @@
 | [0015-3sum](https://github.com/kishorek0344/Leet_Code/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/kishorek0344/Leet_Code/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/kishorek0344/Leet_Code/tree/master/0242-valid-anagram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/kishorek0344/Leet_Code/tree/master/0628-maximum-product-of-three-numbers) |
 ## Array
 |  |
 | ------- |
@@ -97,6 +99,7 @@
 | [0015-3sum](https://github.com/kishorek0344/Leet_Code/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kishorek0344/Leet_Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/kishorek0344/Leet_Code/tree/master/0169-majority-element) |
+| [0628-maximum-product-of-three-numbers](https://github.com/kishorek0344/Leet_Code/tree/master/0628-maximum-product-of-three-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
