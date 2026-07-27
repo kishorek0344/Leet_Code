@@ -60,6 +60,7 @@
 | [0007-reverse-integer](https://github.com/kishorek0344/Leet_Code/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kishorek0344/Leet_Code/tree/master/0009-palindrome-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kishorek0344/Leet_Code/tree/master/0628-maximum-product-of-three-numbers) |
+| [3536-maximum-product-of-two-digits](https://github.com/kishorek0344/Leet_Code/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
 | ------- |
@@ -92,6 +93,7 @@
 | [0169-majority-element](https://github.com/kishorek0344/Leet_Code/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/kishorek0344/Leet_Code/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kishorek0344/Leet_Code/tree/master/0628-maximum-product-of-three-numbers) |
+| [3536-maximum-product-of-two-digits](https://github.com/kishorek0344/Leet_Code/tree/master/3536-maximum-product-of-two-digits) |
 ## Array
 |  |
 | ------- |
