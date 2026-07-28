@@ -69,6 +69,7 @@
 | [0125-valid-palindrome](https://github.com/kishorek0344/Leet_Code/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/kishorek0344/Leet_Code/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/kishorek0344/Leet_Code/tree/master/0387-first-unique-character-in-a-string) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/kishorek0344/Leet_Code/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Trie
 |  |
 | ------- |
@@ -94,6 +95,7 @@
 | [0242-valid-anagram](https://github.com/kishorek0344/Leet_Code/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kishorek0344/Leet_Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kishorek0344/Leet_Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/kishorek0344/Leet_Code/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/kishorek0344/Leet_Code/tree/master/3536-maximum-product-of-two-digits) |
 ## Array
 |  |
@@ -125,4 +127,8 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kishorek0344/Leet_Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/kishorek0344/Leet_Code/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
