@@ -60,6 +60,7 @@
 | [0007-reverse-integer](https://github.com/kishorek0344/Leet_Code/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kishorek0344/Leet_Code/tree/master/0009-palindrome-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kishorek0344/Leet_Code/tree/master/0628-maximum-product-of-three-numbers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kishorek0344/Leet_Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/kishorek0344/Leet_Code/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
@@ -69,6 +70,7 @@
 | [0125-valid-palindrome](https://github.com/kishorek0344/Leet_Code/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/kishorek0344/Leet_Code/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/kishorek0344/Leet_Code/tree/master/0387-first-unique-character-in-a-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kishorek0344/Leet_Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kishorek0344/Leet_Code/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Trie
 |  |
@@ -131,4 +133,8 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kishorek0344/Leet_Code/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kishorek0344/Leet_Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
