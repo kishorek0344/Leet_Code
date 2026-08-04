@@ -89,6 +89,7 @@
 | [0169-majority-element](https://github.com/kishorek0344/Leet_Code/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/kishorek0344/Leet_Code/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/kishorek0344/Leet_Code/tree/master/0387-first-unique-character-in-a-string) |
+| [3731-find-missing-elements](https://github.com/kishorek0344/Leet_Code/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -99,6 +100,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kishorek0344/Leet_Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kishorek0344/Leet_Code/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/kishorek0344/Leet_Code/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/kishorek0344/Leet_Code/tree/master/3731-find-missing-elements) |
 ## Array
 |  |
 | ------- |
@@ -108,6 +110,7 @@
 | [0169-majority-element](https://github.com/kishorek0344/Leet_Code/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kishorek0344/Leet_Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kishorek0344/Leet_Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3731-find-missing-elements](https://github.com/kishorek0344/Leet_Code/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
