@@ -82,6 +82,7 @@
 | [0015-3sum](https://github.com/kishorek0344/Leet_Code/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/kishorek0344/Leet_Code/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kishorek0344/Leet_Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2540-minimum-common-value](https://github.com/kishorek0344/Leet_Code/tree/master/2540-minimum-common-value) |
 ## Hash Table
 |  |
 | ------- |
@@ -89,6 +90,7 @@
 | [0169-majority-element](https://github.com/kishorek0344/Leet_Code/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/kishorek0344/Leet_Code/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/kishorek0344/Leet_Code/tree/master/0387-first-unique-character-in-a-string) |
+| [2540-minimum-common-value](https://github.com/kishorek0344/Leet_Code/tree/master/2540-minimum-common-value) |
 | [3731-find-missing-elements](https://github.com/kishorek0344/Leet_Code/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -110,6 +112,7 @@
 | [0169-majority-element](https://github.com/kishorek0344/Leet_Code/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kishorek0344/Leet_Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kishorek0344/Leet_Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2540-minimum-common-value](https://github.com/kishorek0344/Leet_Code/tree/master/2540-minimum-common-value) |
 | [3731-find-missing-elements](https://github.com/kishorek0344/Leet_Code/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
@@ -128,6 +131,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kishorek0344/Leet_Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2540-minimum-common-value](https://github.com/kishorek0344/Leet_Code/tree/master/2540-minimum-common-value) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
