@@ -9,9 +9,7 @@ class Solution(object):
         end = nums[-1]
         res=[]
         for i in range(start,end):
-            if i in nums:
-                continue
-            else:
+            if i not in nums:
                 res.append(i)
         return res
 
