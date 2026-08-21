@@ -113,6 +113,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/kishorek0344/Leet_Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kishorek0344/Leet_Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2540-minimum-common-value](https://github.com/kishorek0344/Leet_Code/tree/master/2540-minimum-common-value) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/kishorek0344/Leet_Code/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/kishorek0344/Leet_Code/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
@@ -144,4 +145,8 @@
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kishorek0344/Leet_Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/kishorek0344/Leet_Code/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
